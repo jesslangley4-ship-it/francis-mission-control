@@ -124,7 +124,25 @@ if (patched === template) {
   process.exit(1);
 }
 
-fs.writeFileSync(OUT_PATH, patched);
+// Tea Planner mirror: meals.json (written by the daily routine from the
+// planner) replaces the WEEK_MEAL_PLAN block.
+const meals = readJSON('meals.json', null);
+let out = patched;
+let mealCount = 'skipped';
+if (meals && typeof meals === 'object') {
+  const mealsJs = 'var WEEK_MEAL_PLAN = ' +
+    JSON.stringify(meals, null, 2).replace(/</g, '\\u003c').replace(/\n/g, '\n  ') + ';';
+  const withMeals = patched.replace(/var WEEK_MEAL_PLAN = \{[\s\S]*?\n {2}\};/, function () { return mealsJs; });
+  if (withMeals === patched) {
+    console.error('template drifted: WEEK_MEAL_PLAN block not found in ' + TEMPLATE_PATH);
+    process.exit(1);
+  }
+  out = withMeals;
+  mealCount = Object.keys(meals).length;
+}
+console.log('meals=' + mealCount);
+
+fs.writeFileSync(OUT_PATH, out);
 console.log(
   'francis-mission-control: today ' + todayYMD +
   ' | todayEvents=' + todayEvents.length +
