@@ -1,1 +1,60 @@
-{"accessRole":"owner","defaultReminders":[{"method":"popup","minutes":30}],"events":[{"conferenceData":{},"created":"2026-09-25T11:54:05Z","creator":{"email":"jesslangley4@gmail.com","self":true},"description":"YYHL League — Kingston upon Hull HC U12 Boys. Time and venue TBC.","end":{"date":"2026-10-19T00:00:00Z"},"eventType":"DEFAULT","htmlLink":"https://www.google.com/calendar/event?eid=M3FoNTR1aXA3a2xnODZpMHM1OWh0ZDdiYmMgamVzc2xhbmdsZXk0QG0&ctz=Europe/London","id":"3qh54uip7klg86i0s59htd7bbc","organizer":{"email":"jesslangley4@gmail.com","self":true},"start":{"date":"2026-10-18T00:00:00Z"},"status":"confirmed","summary":"Francis - U12 Boys Hockey Fixture (Time TBC)","updated":"2026-09-25T11:54:15Z","useDefaultReminders":false}],"summary":"jesslangley4@gmail.com","timeZone":"Europe/London","updated":"2026-10-17T09:53:01Z"}
+{
+  "accessRole": "owner",
+  "defaultReminders": [{"method": "popup", "minutes": 30}],
+  "events": [
+    {
+      "conferenceData": {},
+      "created": "2026-09-07T09:43:30Z",
+      "creator": {"email": "jesslangley4@gmail.com", "self": true},
+      "end": {"dateTime": "2026-10-19T08:00:00+01:00", "timeZone": "Europe/London"},
+      "eventType": "DEFAULT",
+      "htmlLink": "https://www.google.com/calendar/event?eid=NmE5ZTg3M2Y4ZjA4NTdmZGEyMDI1MGFiXzIwMjYxMDE5VDA3MDAwMFogamVzc2xhbmdsZXk0QG0&ctz=Europe/London",
+      "id": "6a9e873f8f0857fda20250ab_20261019T070000Z",
+      "organizer": {"email": "jesslangley4@gmail.com", "self": true},
+      "originalStartTime": {"dateTime": "2026-10-19T08:00:00+01:00", "timeZone": "Europe/London"},
+      "overrideReminders": [{"method": "popup", "minutes": 0}],
+      "recurringEventId": "6a9e873f8f0857fda20250ab",
+      "start": {"dateTime": "2026-10-19T08:00:00+01:00", "timeZone": "Europe/London"},
+      "status": "confirmed",
+      "summary": "Water the plants",
+      "updated": "2026-10-14T17:43:11Z",
+      "useDefaultReminders": false
+    },
+    {
+      "conferenceData": {},
+      "created": "2026-10-15T20:33:57Z",
+      "creator": {"email": "jesslangley4@gmail.com", "self": true},
+      "description": "QEHS House Drama day. Submit by 09:00 today: https://forms.gle/6PWvn7exJHwGcP966 — choose whether Francis stays in school for the evening or goes home and returns by 16:30, AND whether he can leave the Upper School Hall on his own after results (~20:15) or needs to be collected in person and signed out with his House Leader. Both are Jess's decision — not stated anywhere else.",
+      "end": {"dateTime": "2026-10-19T09:00:00+01:00", "timeZone": "Europe/London"},
+      "eventType": "DEFAULT",
+      "htmlLink": "https://www.google.com/calendar/event?eid=b250M3RsanNzOWY1NGNucG8zZWIyazBxZnMgamVzc2xhbmdsZXk0QG0&ctz=Europe/London",
+      "id": "ont3tljss9f54cnpo3eb2k0qfs",
+      "organizer": {"email": "jesslangley4@gmail.com", "self": true},
+      "start": {"dateTime": "2026-10-19T08:30:00+01:00", "timeZone": "Europe/London"},
+      "status": "confirmed",
+      "summary": "Francis: House Drama stay/collect preference form (deadline 9am)",
+      "updated": "2026-10-15T20:34:04Z",
+      "useDefaultReminders": true
+    },
+    {
+      "conferenceData": {},
+      "created": "2026-10-15T20:33:40Z",
+      "creator": {"email": "jesslangley4@gmail.com", "self": true},
+      "description": "QEHS House Drama competition, \"A Christmas Carol\". Elgar perform 5th of 6 houses. Francis can either stay in school (register with House Leader by 15:40, Sixth Form Hall, then Maths corridor 16:30) or go home and return by 16:30. Results announced ~20:15 — if Francis is staying under House Leader supervision afterwards, Jess (or a named adult) must collect him in person from the Upper School Hall at ~20:15 and sign him out; if he's allowed to leave on his own, no sign-out needed. Jess needs to submit a preference form by 09:00 that morning (separate calendar entry) saying which option applies.",
+      "end": {"dateTime": "2026-10-19T20:15:00+01:00", "timeZone": "Europe/London"},
+      "eventType": "DEFAULT",
+      "htmlLink": "https://www.google.com/calendar/event?eid=czUzNTFuYmkxNGt0ZzM2cjBxY2poY3ZuZXMgamVzc2xhbmdsZXk0QG0&ctz=Europe/London",
+      "id": "s5351nbi14ktg36r0qcjhcvnes",
+      "location": "Upper School Hall, QEHS",
+      "organizer": {"email": "jesslangley4@gmail.com", "self": true},
+      "start": {"dateTime": "2026-10-19T17:30:00+01:00", "timeZone": "Europe/London"},
+      "status": "confirmed",
+      "summary": "Francis: House Drama performance — \"A Christmas Carol\" (Elgar House)",
+      "updated": "2026-10-15T20:33:45Z",
+      "useDefaultReminders": true
+    }
+  ],
+  "summary": "jesslangley4@gmail.com",
+  "timeZone": "Europe/London",
+  "updated": "2026-10-18T14:09:58Z"
+}
