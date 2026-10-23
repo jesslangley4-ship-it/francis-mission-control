@@ -1,1 +1,56 @@
-{"accessRole":"owner","defaultReminders":[{"method":"popup","minutes":30}],"events":[{"conferenceData":{},"created":"2026-09-16T16:07:36Z","creator":{"email":"jesslangley4@gmail.com","self":true},"description":"QEHS in-school theatre programme (all Y7/8 students) raising awareness of risks/consequences of underage drinking, delivered by an outside agency. No action needed unless you want to opt Francis out - contact Mrs J Wood (Safeguarding and Wellbeing Officer) via school if so.","end":{"date":"2026-10-24T00:00:00Z"},"eventType":"DEFAULT","htmlLink":"https://www.google.com/calendar/event?eid=MnVqdjI3amR2YWtoa2JjOG9qcmRzbjd0MWsgamVzc2xhbmdsZXk0QG0&ctz=Europe/London","id":"2ujv27jdvakhkbc8ojrdsn7t1k","organizer":{"email":"jesslangley4@gmail.com","self":true},"start":{"date":"2026-10-23T00:00:00Z"},"status":"confirmed","summary":"Francis: 'Smashed Live' programme (Y7/8, in-school)","updated":"2026-09-16T16:07:39Z","useDefaultReminders":false},{"conferenceData":{},"created":"2026-01-16T09:14:50Z","creator":{"email":"jesslangley4@gmail.com","self":true},"end":{"dateTime":"2026-10-23T10:30:00+01:00","timeZone":"Europe/London"},"eventType":"DEFAULT","htmlLink":"https://www.google.com/calendar/event?eid=dXU4ZGxuMWNmM3EwZnVyY21lM3BldjU5b29fMjAyNjEwMjNUMDgzMDAwWiBqZXNzbGFuZ2xleTRAbQ&ctz=Europe/London","id":"uu8dln1cf3q0furcme3pev59oo_20261023T083000Z","location":"Allegro Gymnastics Academy","organizer":{"email":"jesslangley4@gmail.com","self":true},"originalStartTime":{"dateTime":"2026-10-23T09:30:00+01:00","timeZone":"Europe/London"},"overrideReminders":[{"method":"popup","minutes":30}],"recurringEventId":"uu8dln1cf3q0furcme3pev59oo","start":{"dateTime":"2026-10-23T09:30:00+01:00","timeZone":"Europe/London"},"status":"confirmed","summary":"Gymnastics","updated":"2026-10-16T12:01:04Z","useDefaultReminders":false},{"conferenceData":{},"created":"2026-01-16T09:14:19Z","creator":{"email":"jesslangley4@gmail.com","self":true},"end":{"dateTime":"2026-10-23T14:30:00+01:00","timeZone":"Europe/London"},"eventType":"DEFAULT","htmlLink":"https://www.google.com/calendar/event?eid=bzFpOWJkcWFhdjdkY2FlcDhjcGNnamthMmNfMjAyNjEwMjNUMTIzMDAwWiBqZXNzbGFuZ2xleTRAbQ&ctz=Europe/London","id":"o1i9bdqaav7dcaep8cpcgjka2c_20261023T123000Z","location":"Emmerson Pool Hire","organizer":{"email":"jesslangley4@gmail.com","self":true},"originalStartTime":{"dateTime":"2026-10-23T13:30:00+01:00","timeZone":"Europe/London"},"overrideReminders":[{"method":"popup","minutes":30}],"recurringEventId":"o1i9bdqaav7dcaep8cpcgjka2c","start":{"dateTime":"2026-10-23T13:30:00+01:00","timeZone":"Europe/London"},"status":"confirmed","summary":"Swimming","updated":"2026-10-16T12:01:02Z","useDefaultReminders":false},{"conferenceData":{},"created":"2026-09-25T12:23:03Z","creator":{"email":"jesslangley4@gmail.com","self":true},"description":"Me time 🛁","end":{"dateTime":"2026-10-23T16:00:00+01:00","timeZone":"Europe/London"},"eventType":"DEFAULT","htmlLink":"https://www.google.com/calendar/event?eid=Z2Vlc292OHM2dXBtZ2trM2prc21kMGY3Y3NfMjAyNjEwMjNUMTQwMDAwWiBqZXNzbGFuZ2xleTRAbQ&ctz=Europe/London","id":"geesov8s6upmgkk3jksmd0f7cs_20261023T140000Z","organizer":{"email":"jesslangley4@gmail.com","self":true},"originalStartTime":{"dateTime":"2026-10-23T15:00:00+01:00","timeZone":"Europe/London"},"overrideReminders":[{"method":"popup","minutes":30}],"recurringEventId":"geesov8s6upmgkk3jksmd0f7cs","start":{"dateTime":"2026-10-23T15:00:00+01:00","timeZone":"Europe/London"},"status":"confirmed","summary":"Jessica: Bath","updated":"2026-10-16T12:01:07Z","useDefaultReminders":false}],"summary":"jesslangley4@gmail.com","timeZone":"Europe/London","updated":"2026-10-22T10:40:31Z"}
+{
+ "events": [
+  {
+   "summary": "Francis: 'Smashed Live' programme (Y7/8, in-school)",
+   "start": {
+    "date": "2026-10-23T00:00:00Z"
+   },
+   "end": {
+    "date": "2026-10-24T00:00:00Z"
+   },
+   "status": "confirmed",
+   "eventType": "DEFAULT"
+  },
+  {
+   "summary": "Gymnastics",
+   "start": {
+    "dateTime": "2026-10-23T09:30:00+01:00",
+    "timeZone": "Europe/London"
+   },
+   "end": {
+    "dateTime": "2026-10-23T10:30:00+01:00",
+    "timeZone": "Europe/London"
+   },
+   "status": "confirmed",
+   "location": "Allegro Gymnastics Academy",
+   "eventType": "DEFAULT"
+  },
+  {
+   "summary": "Swimming",
+   "start": {
+    "dateTime": "2026-10-23T13:30:00+01:00",
+    "timeZone": "Europe/London"
+   },
+   "end": {
+    "dateTime": "2026-10-23T14:30:00+01:00",
+    "timeZone": "Europe/London"
+   },
+   "status": "confirmed",
+   "location": "Emmerson Pool Hire",
+   "eventType": "DEFAULT"
+  },
+  {
+   "summary": "Jessica: Bath",
+   "start": {
+    "dateTime": "2026-10-23T15:00:00+01:00",
+    "timeZone": "Europe/London"
+   },
+   "end": {
+    "dateTime": "2026-10-23T16:00:00+01:00",
+    "timeZone": "Europe/London"
+   },
+   "status": "confirmed",
+   "eventType": "DEFAULT"
+  }
+ ]
+}
