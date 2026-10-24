@@ -1,55 +1,39 @@
 {
  "events": [
   {
-   "summary": "Francis: 'Smashed Live' programme (Y7/8, in-school)",
+   "summary": "Frank and nerd convention",
    "start": {
-    "date": "2026-10-23T00:00:00Z"
-   },
-   "end": {
     "date": "2026-10-24T00:00:00Z"
    },
+   "end": {
+    "date": "2026-10-25T00:00:00Z"
+   },
    "status": "confirmed",
    "eventType": "DEFAULT"
   },
   {
-   "summary": "Gymnastics",
+   "summary": "Jess and Thils with cousins",
    "start": {
-    "dateTime": "2026-10-23T09:30:00+01:00",
-    "timeZone": "Europe/London"
+    "date": "2026-10-24T00:00:00Z"
    },
    "end": {
-    "dateTime": "2026-10-23T10:30:00+01:00",
-    "timeZone": "Europe/London"
+    "date": "2026-10-25T00:00:00Z"
    },
    "status": "confirmed",
-   "location": "Allegro Gymnastics Academy",
    "eventType": "DEFAULT"
   },
   {
-   "summary": "Swimming",
+   "summary": "Francis - Hockey U10/U12 Open Session",
    "start": {
-    "dateTime": "2026-10-23T13:30:00+01:00",
+    "dateTime": "2026-10-24T09:15:00+01:00",
     "timeZone": "Europe/London"
    },
    "end": {
-    "dateTime": "2026-10-23T14:30:00+01:00",
+    "dateTime": "2026-10-24T10:15:00+01:00",
     "timeZone": "Europe/London"
    },
    "status": "confirmed",
-   "location": "Emmerson Pool Hire",
-   "eventType": "DEFAULT"
-  },
-  {
-   "summary": "Jessica: Bath",
-   "start": {
-    "dateTime": "2026-10-23T15:00:00+01:00",
-    "timeZone": "Europe/London"
-   },
-   "end": {
-    "dateTime": "2026-10-23T16:00:00+01:00",
-    "timeZone": "Europe/London"
-   },
-   "status": "confirmed",
+   "location": "The Lindum",
    "eventType": "DEFAULT"
   }
  ]
