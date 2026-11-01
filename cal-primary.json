@@ -1,44 +1,27 @@
 {
  "events": [
   {
-   "summary": "Francis - Hockey U10/U12 Open Session",
+   "summary": "Going to see arsenal ladies",
    "start": {
-    "dateTime": "2026-10-31T09:15:00Z",
-    "timeZone": "Europe/London"
+    "date": "2026-11-01T00:00:00Z"
    },
    "end": {
-    "dateTime": "2026-10-31T10:15:00Z",
-    "timeZone": "Europe/London"
-   },
-   "status": "confirmed",
-   "location": "The Lindum",
-   "eventType": "DEFAULT"
-  },
-  {
-   "summary": "Molly party",
-   "start": {
-    "dateTime": "2026-10-31T11:00:00Z",
-    "timeZone": "Europe/London"
-   },
-   "end": {
-    "dateTime": "2026-10-31T13:00:00Z",
-    "timeZone": "Europe/London"
+    "date": "2026-11-02T00:00:00Z"
    },
    "status": "confirmed",
    "eventType": "DEFAULT"
   },
   {
-   "summary": "Francis: Lindum Hockey vs Sheffield (Away)",
+   "summary": "Mathilda: Allegro Halloween Disco (tots &amp; under 5s)",
    "start": {
-    "dateTime": "2026-10-31T12:00:00Z",
+    "dateTime": "2026-11-01T14:00:00Z",
     "timeZone": "Europe/London"
    },
    "end": {
-    "dateTime": "2026-10-31T13:00:00Z",
+    "dateTime": "2026-11-01T15:00:00Z",
     "timeZone": "Europe/London"
    },
    "status": "confirmed",
-   "location": "Westfield Sports Centre, S20 1HQ",
    "eventType": "DEFAULT"
   }
  ]
