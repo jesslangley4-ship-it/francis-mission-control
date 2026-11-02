@@ -1,24 +1,24 @@
 {
  "events": [
   {
-   "summary": "Going to see arsenal ladies",
+   "summary": "Nativity tickets go on sale (£1 each)",
    "start": {
-    "date": "2026-11-01T00:00:00Z"
+    "date": "2026-11-02T00:00:00Z"
    },
    "end": {
-    "date": "2026-11-02T00:00:00Z"
+    "date": "2026-11-03T00:00:00Z"
    },
    "status": "confirmed",
    "eventType": "DEFAULT"
   },
   {
-   "summary": "Mathilda: Allegro Halloween Disco (tots &amp; under 5s)",
+   "summary": "Water the plants",
    "start": {
-    "dateTime": "2026-11-01T14:00:00Z",
+    "dateTime": "2026-11-02T08:00:00Z",
     "timeZone": "Europe/London"
    },
    "end": {
-    "dateTime": "2026-11-01T15:00:00Z",
+    "dateTime": "2026-11-02T08:00:00Z",
     "timeZone": "Europe/London"
    },
    "status": "confirmed",
