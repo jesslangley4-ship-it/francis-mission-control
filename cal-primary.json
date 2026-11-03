@@ -1,27 +1,17 @@
 {
  "events": [
   {
-   "summary": "Nativity tickets go on sale (£1 each)",
+   "summary": "Francis - Hull Hockey Training",
    "start": {
-    "date": "2026-11-02T00:00:00Z"
-   },
-   "end": {
-    "date": "2026-11-03T00:00:00Z"
-   },
-   "status": "confirmed",
-   "eventType": "DEFAULT"
-  },
-  {
-   "summary": "Water the plants",
-   "start": {
-    "dateTime": "2026-11-02T08:00:00Z",
+    "dateTime": "2026-11-03T18:00:00Z",
     "timeZone": "Europe/London"
    },
    "end": {
-    "dateTime": "2026-11-02T08:00:00Z",
+    "dateTime": "2026-11-03T19:00:00Z",
     "timeZone": "Europe/London"
    },
    "status": "confirmed",
+   "location": "Hymers College, Hymers Avenue, Hull HU3 1LW",
    "eventType": "DEFAULT"
   }
  ]
