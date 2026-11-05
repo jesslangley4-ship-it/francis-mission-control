@@ -1,18 +1,3 @@
 {
- "events": [
-  {
-   "summary": "Francis - Hockey Academy Night (U10/U12)",
-   "start": {
-    "dateTime": "2026-11-04T18:15:00Z",
-    "timeZone": "Europe/London"
-   },
-   "end": {
-    "dateTime": "2026-11-04T19:45:00Z",
-    "timeZone": "Europe/London"
-   },
-   "status": "confirmed",
-   "location": "The Lindum",
-   "eventType": "DEFAULT"
-  }
- ]
+ "events": []
 }
