@@ -1,21 +1,6 @@
 {
  "events": [
   {
-   "summary": "Liverpool Women vs Arsenal Women (A)",
-   "start": {
-    "dateTime": "2026-11-08T12:00:00Z",
-    "timeZone": "Europe/London"
-   },
-   "end": {
-    "dateTime": "2026-11-08T14:00:00Z",
-    "timeZone": "Europe/London"
-   },
-   "status": "confirmed",
-   "location": "Anfield, Liverpool",
-   "eventType": "DEFAULT",
-   "description": "Barclays WSL | Join in @ArsenalFCW"
-  },
-  {
    "summary": "🎫 Arsenal Women v Tottenham Hotspur on-sale",
    "start": {
     "dateTime": "2026-11-10T14:00:00Z",

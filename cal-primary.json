@@ -1,12 +1,27 @@
 {
  "events": [
   {
-   "summary": "Francis - U12 Boys Hockey Fixture (Time TBC)",
+   "summary": "Water the plants",
    "start": {
-    "date": "2026-11-08"
+    "dateTime": "2026-11-09T08:00:00Z",
+    "timeZone": "Europe/London"
    },
    "end": {
-    "date": "2026-11-09"
+    "dateTime": "2026-11-09T08:00:00Z",
+    "timeZone": "Europe/London"
+   },
+   "status": "confirmed",
+   "eventType": "DEFAULT"
+  },
+  {
+   "summary": "Mathilda: Hospital eye test appointment (off nursery)",
+   "start": {
+    "dateTime": "2026-11-09T09:30:00Z",
+    "timeZone": "Europe/London"
+   },
+   "end": {
+    "dateTime": "2026-11-09T10:30:00Z",
+    "timeZone": "Europe/London"
    },
    "status": "confirmed",
    "eventType": "DEFAULT"
