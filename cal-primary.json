@@ -1,29 +1,17 @@
 {
  "events": [
   {
-   "summary": "Water the plants",
+   "summary": "Francis - Hull Hockey Training",
    "start": {
-    "dateTime": "2026-11-09T08:00:00Z",
+    "dateTime": "2026-11-10T18:00:00Z",
     "timeZone": "Europe/London"
    },
    "end": {
-    "dateTime": "2026-11-09T08:00:00Z",
+    "dateTime": "2026-11-10T19:00:00Z",
     "timeZone": "Europe/London"
    },
    "status": "confirmed",
-   "eventType": "DEFAULT"
-  },
-  {
-   "summary": "Mathilda: Hospital eye test appointment (off nursery)",
-   "start": {
-    "dateTime": "2026-11-09T09:30:00Z",
-    "timeZone": "Europe/London"
-   },
-   "end": {
-    "dateTime": "2026-11-09T10:30:00Z",
-    "timeZone": "Europe/London"
-   },
-   "status": "confirmed",
+   "location": "Hymers College, Hymers Avenue, Hull HU3 1LW",
    "eventType": "DEFAULT"
   }
  ]
