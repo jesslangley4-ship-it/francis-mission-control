@@ -1,17 +1,17 @@
 {
  "events": [
   {
-   "summary": "Francis - Hull Hockey Training",
+   "summary": "Francis - Hockey Academy Night (U10/U12)",
    "start": {
-    "dateTime": "2026-11-10T18:00:00Z",
+    "dateTime": "2026-11-11T18:15:00Z",
     "timeZone": "Europe/London"
    },
    "end": {
-    "dateTime": "2026-11-10T19:00:00Z",
+    "dateTime": "2026-11-11T19:45:00Z",
     "timeZone": "Europe/London"
    },
    "status": "confirmed",
-   "location": "Hymers College, Hymers Avenue, Hull HU3 1LW",
+   "location": "The Lindum",
    "eventType": "DEFAULT"
   }
  ]
