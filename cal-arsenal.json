@@ -238,6 +238,21 @@
    "location": "Craven Cottage, London",
    "eventType": "DEFAULT",
    "description": "Premier League | Matchweek 18 | Watch live on UK - Sky Sports. Join us for analysis and live commentary in The Breakdown Live on the Arsenal App and Arsenal.com | Join In #FULARS"
+  },
+  {
+   "summary": "Arsenal vs Ipswich Town (H)",
+   "start": {
+    "dateTime": "2027-01-02T15:00:00Z",
+    "timeZone": "Europe/London"
+   },
+   "end": {
+    "dateTime": "2027-01-02T17:00:00Z",
+    "timeZone": "Europe/London"
+   },
+   "status": "confirmed",
+   "location": "Emirates Stadium, London",
+   "eventType": "DEFAULT",
+   "description": "Premier League | Matchweek 19 | Join us for analysis and live commentary in The Breakdown Live on the Arsenal App and Arsenal.com | Join In #ARSIPS"
   }
  ]
 }
